@@ -2,7 +2,6 @@
 
 This project is just a version controlled self learning code repo for following through the video tutorial series by Acquia: https://www.youtube.com/watch?v=nEgdpqEl0jE&amp;t=1s&amp;ab_channel=
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ----
 
 
@@ -12,7 +11,12 @@ In the project directory, you can run:
 
 #### `npm install`
 
-Install the dependencies 
+Install the dependencies
+MUI dependencies:
+- Default installation : `npm install @mui/material @emotion/react @emotion/styled`
+- With styled-components : `npm install @mui/material @mui/styled-engine-sc styled-components`
+- Roboto font: `npm install @fontsource/roboto`
+- MUI Icons: `npm install @mui/icons-material`
 
 #### `npm start`
 
