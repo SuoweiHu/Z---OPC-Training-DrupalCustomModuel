@@ -1,6 +1,6 @@
 # Drupal-Moduel---Learning
 
-This project is just a version controlled self learning code repo for following through the video tutorial series by Acquia: https://www.youtube.com/watch?v=nEgdpqEl0jE&amp;t=1s&amp;ab_channel=
+> This project is just a version controlled self learning code repo for following through the video tutorial series by Acquia: https://www.youtube.com/watch?v=nEgdpqEl0jE&amp;t=1s&amp;ab_channel=
 
 ----
 
@@ -30,3 +30,5 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+----
